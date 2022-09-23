@@ -1,8 +1,2 @@
 /__pycache__
-/data_set/go/training/black/*
-/data_set/go/training/blank/*
-/data_set/go/training/white/*
-/data_set/go/validation/white/*
-/data_set/go/validation/black/*
-/data_set/go/validation/blank/*
 /weight
